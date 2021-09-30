@@ -1,0 +1,29 @@
+body {
+  background-color:rgb(58, 58, 95);
+  color: white;
+  font-family: century-gothic,sans-serif;
+  font-weight:lighter;
+  font-style: normal;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+.project {
+  border-radius: 1rem;
+  background-color: rgb(255,255,255,0.75);
+  color: black;
+}
+
+header {
+  margin: 20px;
+  background-color: rgb(255,255,255,0.85);
+  border-radius: 1rem;
+}
+
