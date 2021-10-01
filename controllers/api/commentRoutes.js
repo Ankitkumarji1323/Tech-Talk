@@ -2,7 +2,7 @@ const router = require('express').Router();
 const { Comment } = require('../../models');
 
 router.post('/', async (req, res) => {
-  console.log("testing")
+  // console.log("testing")
   try {
     console.log(req.body)
     console.log(req.session.user_id)

@@ -1,8 +1,8 @@
 body {
-  background-color:rgb(39, 39, 102);
-  color: white;
-  font-family: century-gothic,sans-serif;
-  font-weight:lighter;
+  background-color:#d8d2d2;
+  color: black;
+  font-family: montserrat-alternates,sans-serif;
+  font-weight: 400;
   font-style: normal;
 }
 
@@ -11,8 +11,8 @@ a {
 }
 
 a:hover {
-  color: black;
-  text-decoration: underline;
+  color: #6ca848;
+  text-decoration: none;
 }
 
 .project {
@@ -22,17 +22,33 @@ a:hover {
 }
 
 header {
-  margin: 20px;
-  background-color: rgb(255,255,255,0.85);
-  border-radius: 1rem;
+  background-color: #fafafa;
+  color: black;
+  font-family: montserrat,sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
-.btn {
+button.btn {
   border-radius: 1rem;
-  background-color: rgb(255.255.255.0.5);;
+  background-color: #6ca848;
 }
 
 /* img {
-  width: 300px;
+  width: 400px;
   height: 100px;
+} */
+
+h2 {
+  font-variant-caps:all-small-caps;
+  font-family: montserrat,sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+}
+
+/* .container {
+  border-radius: 1rem;
+  margin: 10px;
+  background-color: #fafafa;
 } */
