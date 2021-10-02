@@ -1,6 +1,6 @@
 # Tech-Talk
 
-[Logo](./public/images/logo.png)
+![Logo](/public/images/logo.png)
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -8,7 +8,7 @@
 
 A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. Site deployed to Heroku and follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
-[Screenshot](./public/images/Screenshot.png)
+![Screenshot](/public/images/Screenshot.png)
 
 ## User Story
  
